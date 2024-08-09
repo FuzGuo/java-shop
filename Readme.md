@@ -1,5 +1,9 @@
 # **TechPartHub: 电脑配件一站式购物平台**
 
+![image-20240809164633648](./assets/image-20240809164633648.png)
+
+<img src="./assets/image-20240809164702089.png" alt="image-20240809164702089" style="zoom:150%;" />
+
 ## 1. 参与人员
 
 | 序号 | 学号         | 姓名   | 专业     | 工作内容概述                                                 |
@@ -55,5 +59,4 @@ npm run serve
 ```
 npm run build
 ```
-
 
